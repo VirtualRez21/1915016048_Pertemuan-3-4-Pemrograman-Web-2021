@@ -212,11 +212,3 @@ footer p{
     width: 1rem;
     filter: invert(90%);
 }
-
-@media screen and (max-width: 500px){
-	.top-wrapper,
-	.lesson-wrapper,
-	.message-wrapper{
-		width: 40%;
-	}
-}
